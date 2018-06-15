@@ -1,0 +1,6 @@
+{
+    "name": "My Cats Plugin",
+    "description": "Allows users to manage their cats.",
+    "url": "https://girder.readthedocs.io/en/latest/plugin-development.html#example-plugin",
+    "version": "0.0.1"
+}
